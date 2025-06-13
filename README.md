@@ -46,11 +46,11 @@ If you don't have Meteor installed, run:
 
 curl https://install.meteor.com/ | sh # For Linux/macOS
 
-# Or follow instructions on meteor.com for Windows
+# Instructions on meteor
 
 Clone the Repository:
 
-git clone https://github.com/your-username/collaborative-whiteboard-meteor.git # Replace with actual repo URL
+git clone https://github.com/chicoumbetov/collaborative-whiteboard-meteor.git # Replace with actual repo URL
 cd collaborative-whiteboard-meteor
 
 Install Dependencies & Packages:
